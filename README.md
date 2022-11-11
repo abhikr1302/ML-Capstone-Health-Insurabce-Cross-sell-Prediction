@@ -1,1 +1,1 @@
-# ML-Capstone-Health-Insurabce-Cross-sell-Prediction
+# ML-Capstone-Health-Insurance-Cross-sell-Prediction
