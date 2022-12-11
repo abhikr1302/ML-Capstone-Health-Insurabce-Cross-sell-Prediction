@@ -2,6 +2,7 @@
 
 # Introduction:-
 Insurance is a means of protection from financial loss in which, in exchange for a fee, a party agrees to guarantee another party compensation in the event of a certain loss, damage, or injury. The amount of money charged by the insurer to the policyholder for the coverage set forth in the insurance policy is called the Premium.
+
 Vehicle insurance (also known as car insurance, motor insurance, or auto insurance) is insurance for cars, trucks, motorcycles, and other road vehicles. Its primary use is to provide financial protection against physical damage or bodily injury resulting from traffic collisions and against liability that could also arise from incidents in a vehicle.
 
 # Problem Statement:-
